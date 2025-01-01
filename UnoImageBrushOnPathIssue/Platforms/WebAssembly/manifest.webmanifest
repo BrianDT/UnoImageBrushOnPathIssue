@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoImageBrushOnPathIssue",
+  "display": "standalone",
+  "name": "UnoImageBrushOnPathIssue",
+  "short_name": "UnoImageBrushOnPathIssue",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
